@@ -399,3 +399,9 @@ retain their own original licences.
 ---
 
 Terra · Ethara.AI · Sample document version 0.3 · Last updated 2026-08-03
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
